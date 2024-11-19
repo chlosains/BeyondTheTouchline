@@ -1,6 +1,6 @@
 # Beyond the Touchline
 
-Welcome to the Beyond the Touchline repository! This repository contains all the code used for football analytics published on my Substack (beyondthetouchline.substack.com). It demonstrates my skills in data analysis, visualisation, and storytelling using football data.
+Welcome to the Beyond the Touchline repository! This repository contains all the code used for football analytics published on my Substack (beyondthetouchline.substack.com). It demonstrates my skills in data analysis, visualisation, and machine learning models using football data.
 
 ## **Overview**
 
